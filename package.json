@@ -4,7 +4,9 @@
   "description": "FCC Back-End expressworks module",
   "main": "ex01.js",
   "dependencies": {
-    "express": "^4.15.3"
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jade": "^1.11.0"
   },
   "devDependencies": {},
   "scripts": {
